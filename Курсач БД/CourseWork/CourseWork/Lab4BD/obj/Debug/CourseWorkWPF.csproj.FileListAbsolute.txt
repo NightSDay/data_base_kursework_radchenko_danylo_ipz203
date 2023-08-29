@@ -1,0 +1,15 @@
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\bin\Debug\Lab4BD.exe.config
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\bin\Debug\Lab4BD.exe
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\bin\Debug\Lab4BD.pdb
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\CourseWorkWPF.csproj.AssemblyReference.cache
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\MainWindow.g.cs
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\App.g.cs
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\Lab4BD_MarkupCompile.cache
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\Lab4BD_MarkupCompile.lref
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\MainWindow.baml
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\Lab4BD.g.resources
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\Lab4BD.Properties.Resources.resources
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\CourseWorkWPF.csproj.GenerateResource.cache
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\CourseWorkWPF.csproj.CoreCompileInputs.cache
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\Lab4BD.exe
+C:\Users\radch\OneDrive\Робочий стіл\Курсач БД\CourseWork\CourseWork\Lab4BD\obj\Debug\Lab4BD.pdb
